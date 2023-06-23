@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Praveen Kumar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript & React-js
+- 👀 I’m Frontend Developer
+- 🌱 Expertise in Javascript,React basics
 - 📫 How to reach me praveencs0047@gmail.com
 
